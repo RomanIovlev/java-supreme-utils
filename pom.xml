@@ -8,7 +8,6 @@
 	<groupId>com.epam.jdi.tools</groupId>
     <artifactId>light-saber</artifactId>
     <name>Light Saber</name>
-	
     <version>1.0.0</version>
 
     <build>
